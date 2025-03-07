@@ -1,5 +1,8 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
+#NAME: YAZHINI R R
 
+
+#DEPT: CYBER SECURITY
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
  
@@ -37,6 +40,7 @@
 
  ## OUTPUT
  
- 
+ ![Screenshot 2025-03-07 181647](https://github.com/user-attachments/assets/b45f2f89-70fe-4ead-9043-e888e8e1e324)
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
